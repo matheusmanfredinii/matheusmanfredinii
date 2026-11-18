@@ -37,9 +37,7 @@ Tecnologias com as quais tenho experiência prática ou que venho estudando:
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | [Assinatura Digital](https://github.com/matheusmanfredinii/assinatura-digital) | Demonstração acadêmica de captura de assinaturas manuscritas em dispositivo móvel, com validação de traços e exportação de dados. | React Native, Expo, WebView |
-| [Sistema Seguro](https://github.com/matheusmanfredinii/sistema-seguro) | API de e-commerce com foco em práticas de segurança inspiradas na OWASP Top 10, autenticação e controle de requisições. | Node.js, Express, Prisma, MySQL, JWT |
-| [Gestão de Usuários](https://github.com/matheusmanfredinii/gestao-usuarios) | Sistema de gestão com integração a banco de dados e recursos de exportação. | Node.js, Express, PostgreSQL |
-| [Site Cadastro](https://github.com/matheusmanfredinii/siteCadastro) | Projeto de desenvolvimento web e estudo de interfaces com React e Next.js. | React, Next.js |
+| [Biblioteca Camugerê](https://github.com/adsifspcaragua/Camugere) | Sistema Full Stack de gestão da biblioteca comunitária do Espaço Cultural Casa da Democracia, com gerenciamento de acervo, leitores, empréstimos, devoluções, relatórios, notificações e backups automatizados. | React, Vite, Tailwind CSS, Node.js, Express, Prisma, MySQL, Zod, JWT |
 
 ## 04. GitHub Activity
 
